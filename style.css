@@ -127,3 +127,11 @@ body{
     font-weight: 100;
 }
 
+@media only screen and  (max-width:730px) {
+    .future-forecast{
+    justify-content: start;
+    align-items: none;
+    overflow-y: scroll;
+}
+    
+}
