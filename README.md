@@ -1,1 +1,2 @@
 # Weather-application
+this weather app i created uses the OpenWeather map api. To use the app you must enter a city from anywhdere in the world and the api will find the city and what country the city is in. Once the city is found the api gives a current air pressure, humidity, and wind speed. The app will also give a weekly forecast for the city selected with max and minimum temps for the day. 
